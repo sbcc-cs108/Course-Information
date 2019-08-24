@@ -1,12 +1,12 @@
-# Syllabus - Spring 2019 CS V17 Discrete Structures
+# Syllabus - Fall 2019 CS 108 Discrete Structures
 
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
-Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 289-6481 (maybe)  
-Office: #SCI-356  
-Office Hours: TR 10:00 AM - 11:50AM
+Email: [ahknight@pipeline.sbcc.edu](mailto:ahknight@pipeline.sbcc.edu)  
+Phone: (805) 285-2070  
+Office: H-244  
+Office Hours: TR 3:30-4:30P
 
 ### Description:  
 
@@ -14,11 +14,11 @@ This course introduces the student to discrete mathematics as it is used in comp
 
 ### Lecture:
 
-MW 1:00 PM - 2:15 PM (SCI-226)
+TR 5:15 PM - 7:20 PM (ECC-18)
 
 ### Textbook: 
 
-Discrete Mathematics: An Open Introduction, 	Oscar Levin. Available online [here](http://discrete.openmathbooks.org/download.php). Not available from the VCC Bookstore. The textbook is required.
+Discrete Mathematics and its Applications, 	Kenneth Rosen. Available from [Amazon](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-author/dp/1260091996/). The textbook is required.
 
 ### Student Learning Outcomes:
 
@@ -95,7 +95,7 @@ The following descriptions detail the different types of extra credit that will 
 
 3. _Make Allan Cooler_: On Slack there is a channel specifically named "Make Allan Cooler" participation in this channel with colloquilisms and contempory song suggestions will earn students extra credit points, determined at the end of the term.
 
-3. _VC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Canvas site which events qualify for extra credit.
+3. _SBCC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Canvas site which events qualify for extra credit.
 
 ### Accommodations
 
